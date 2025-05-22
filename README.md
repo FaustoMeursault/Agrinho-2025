@@ -5,9 +5,9 @@ João Pedro dos Santos Peron, estudante do Colégio Estadual 14 de Dezembro em P
 Ao acessar o site:
 No menu principal, você encontrará três links de navegação:
 
-  - "Home" (que reinicia a página),
+  - "Sobre" (direciona para o conteúdo principal),
 
-  - "Principal" (redireciona para o conteúdo principal, com textos e fotos),
+  - "Galeria" (direciona para fotos),
 
   - "Parceiro" (direciona para o logo do Colégio, instituição que apoiou a criação do site).
 
